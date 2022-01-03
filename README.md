@@ -38,6 +38,8 @@ which browser supports features.
 15. https://www.canva.com/  create a logo
 16. Tool to convert and resize images
 
+17. https://fontawesome.com/  Icons
+
 
 - Search for : web development client questionnaire.
 ### Block-level content vs inline-Level conetent 
