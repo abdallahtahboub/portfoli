@@ -40,6 +40,7 @@ which browser supports features.
 
 17. https://fontawesome.com/  Icons
 
+18. https://www.awwwards.com/15-great-chrome-extensions-for-web-designers-and-developers.html  useful extensions 
 
 - Search for : web development client questionnaire.
 ### Block-level content vs inline-Level conetent 
