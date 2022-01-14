@@ -418,14 +418,14 @@ header h1 {
   opacity: 0.9;
 }
 
-.project-category{
+.project-category {
 
   font-size: 0.8em;
   color: #000;
-  
+
 }
 
-.project-title{
+.project-title {
   justify-content: space-between;
 
   text-transform: uppercase;
@@ -435,20 +435,20 @@ header h1 {
   margin-top: 10px;
 }
 
-.more-details{
+.more-details {
   text-decoration: none;
 
   color: var(--blue);
 }
 
-.more-details:hover{
+.more-details:hover {
   color: #601cfc;
 }
 
 /* Footer section */
 
-.footer{
- border: 10px;
+.footer {
+  border: 10px;
   background-color: var(--blue);
   color: #000010;
   padding: 2em;
@@ -456,20 +456,57 @@ header h1 {
   justify-content: space-between;
 }
 
-.footer-title{
+.footer-title {
 
   color: #fff;
   font-size: 1.3em;
   font-weight: 600;
 }
 
-.footer-title span{
+.footer-title span {
 
   color: #000100;
 }
 
-footer .social-icons a{
+footer .social-icons a {
 
   color: #000100;
   padding: 0 8px 0 0;
+}
+
+@media(max-width: 1023px) {
+
+  header {
+
+    padding: 12px 20px;
+  }
+
+  .navigation a {
+
+    padding-left: 10px;
+  }
+
+  .title {
+
+    font-size: 1.8em;
+  }
+
+  section{
+    padding: 80px 20px;
+  }
+  .main-content h2{
+
+
+    font-size: 1em;
+
+
+  }
+
+  .main-content h3{
+
+    font-size: 1.6em;
+  }
+
+
+
 }
