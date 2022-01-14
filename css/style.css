@@ -300,7 +300,7 @@ header h1 {
   color: var(--blue);
   font-size: 2.2em;
   font-weight: 800;
-  margin: bottom 30px;
+  margin-bottom: 30px;
 
 }
 
@@ -350,7 +350,8 @@ header h1 {
   color: black;
 
 
-  transform: scale(1.6);
+  transform: scale(1.4);
+
 
 
 
@@ -377,4 +378,98 @@ header h1 {
 
   font-size: larger;
   font-weight: 600;
+}
+
+/* section projects */
+
+.projects {
+
+  background-color: #f0f0f0;
+}
+
+.projects .content {
+
+  margin-top: 30px;
+}
+
+.project-card {
+
+  border: 1px solid black;
+  min-height: 14em;
+  width: 23em;
+  overflow: hidden;
+  border-radius: 10px;
+  margin: 20px;
+  transition: 0.7s ease;
+}
+
+.project-card:hover {
+
+  transform: scale(1.1);
+}
+
+.project-image {
+
+  width: 100%;
+}
+
+.project-card:hover .project-image {
+
+  opacity: 0.9;
+}
+
+.project-category{
+
+  font-size: 0.8em;
+  color: #000;
+  
+}
+
+.project-title{
+  justify-content: space-between;
+
+  text-transform: uppercase;
+
+  font-weight: 800;
+
+  margin-top: 10px;
+}
+
+.more-details{
+  text-decoration: none;
+
+  color: var(--blue);
+}
+
+.more-details:hover{
+  color: #601cfc;
+}
+
+/* Footer section */
+
+.footer{
+ border: 10px;
+  background-color: var(--blue);
+  color: #000010;
+  padding: 2em;
+  display: flex;
+  justify-content: space-between;
+}
+
+.footer-title{
+
+  color: #fff;
+  font-size: 1.3em;
+  font-weight: 600;
+}
+
+.footer-title span{
+
+  color: #000100;
+}
+
+footer .social-icons a{
+
+  color: #000100;
+  padding: 0 8px 0 0;
 }
