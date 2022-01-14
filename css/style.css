@@ -129,7 +129,7 @@ section {
   padding: 100px 200px;
 }
 
-.test {
+.intro {
 
   margin-top: 170;
 
@@ -209,8 +209,8 @@ section {
 
   color: var(--blue);
   font-size: 1.7em;
-  padding-right: 30px;
-  margin-left: 15;
+  padding-right: 20px;
+  margin-left: 5px;
 }
 
 
