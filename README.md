@@ -50,3 +50,8 @@ spn- inline-level content
 
 
 /// PS: CHECK PORSCHE AND THINK CELL FIRMA
+
+## Useful extesions 
+
+1. Lighthouse - or improving the performance, quality, and correctness of web apps. 
+2. Chropath - To get oaths 
